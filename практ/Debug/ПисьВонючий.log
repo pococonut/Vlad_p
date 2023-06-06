@@ -1,0 +1,11 @@
+﻿  ПисьВонючий.cpp
+C:\Users\PoPo\Desktop\ПисьВонючий\ПисьВонючий.cpp(37,5): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\PoPo\Desktop\ПисьВонючий\ПисьВонючий.cpp(50,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\PoPo\Desktop\ПисьВонючий\ПисьВонючий.cpp(111,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\PoPo\Desktop\ПисьВонючий\ПисьВонючий.cpp(114,44): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\PoPo\Desktop\ПисьВонючий\ПисьВонючий.cpp(131,57): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\PoPo\Desktop\ПисьВонючий\ПисьВонючий.cpp(132,58): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\PoPo\Desktop\ПисьВонючий\ПисьВонючий.cpp(133,58): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\PoPo\Desktop\ПисьВонючий\ПисьВонючий.cpp(134,58): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\PoPo\Desktop\ПисьВонючий\ПисьВонючий.cpp(137,63): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ПисьВонючий.vcxproj -> C:\Users\PoPo\Desktop\ПисьВонючий\Debug\ПисьВонючий.exe
